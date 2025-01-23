@@ -1,5 +1,4 @@
 # PokemonExampleAPI
-# Pokémon Management System
 
 This project is a simple Pokémon management system built using C# and ASP.NET Core. It provides an API for managing Pokémon with their attributes, including their moves, abilities, and other key details. The system allows for CRUD (Create, Read, Update, Delete) operations for managing Pokémon records.
 
